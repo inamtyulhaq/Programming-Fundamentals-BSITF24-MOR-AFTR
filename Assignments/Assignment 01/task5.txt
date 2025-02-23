@@ -1,0 +1,11 @@
+a:
+remember sets mapping...
+so map R with B and G
+B with R and G
+G with B and R
+Try at home.
+Total 6 ways.
+
+b:
+
+simple 8-3 = 5

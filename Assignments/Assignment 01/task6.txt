@@ -1,0 +1,16 @@
+simply I will take the input
+in what??
+
+remember task1?
+
+in a list of characters, (character array)
+
+then I will decide.
+
+what statement to use when you decide?
+
+if-else
+
+if red then stop
+else if yellow then slow down
+else gooooooooooooooooooooooooo

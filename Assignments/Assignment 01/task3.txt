@@ -1,0 +1,12 @@
+inputs:
+
+hours worked
+hourly wages
+
+processes:
+
+calculating salries based on hours worked multiply by hourly wages
+
+output:
+
+employees' salaries
